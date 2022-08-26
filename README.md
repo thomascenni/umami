@@ -2,9 +2,11 @@
 
 This repository allows you to deploy the latest umami software (v1.37.0) on Render.
 
-Follow these steps:
+## Automatic Deploy
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/thomascenni/umami)
 
 
+## Manual Deploy
 
 1. Login onto your Render [Dashboard](https://dashboard.render.com/)
 
@@ -21,9 +23,4 @@ Follow these steps:
    2. HASH_SALT, with a random generated string
 
 
-
 Once the web service is deployed, you'll be redirected to the admin page, login with user "admin" and password "umami".
-
-Alternatively:
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/thomascenni/umami)
