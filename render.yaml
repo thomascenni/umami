@@ -4,7 +4,7 @@ services:
     env: docker
     repo: https://github.com/thomascenni/umami.git
     region: oregon # optional (defaults to oregon)
-    plan: standard # optional (defaults to starter)
+    plan: free
     branch: main
     numInstances: 1
     envVars:
