@@ -17,5 +17,6 @@ services:
 
 databases:
   - name: umami-db
+    plan: free
     databaseName: umami
     user: umami
