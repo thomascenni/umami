@@ -1,1 +1,1 @@
-FROM ghcr.io/umami-software/umami:postgresql-v2.10.2
+FROM ghcr.io/umami-software/umami:postgresql-v2.16.1
